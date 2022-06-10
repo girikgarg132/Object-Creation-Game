@@ -1,0 +1,33 @@
+{
+    "name": "DefaultConfiguration",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "60640073-b7da-42ac-a613-d49c3578ef6f",
+            "actions": [
+                {
+                    "name": "Pause",
+                    "type": "Button",
+                    "id": "60475e8f-1494-4490-9c48-54ddf9e68043",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "28978b09-732e-47a3-bc59-72e940db80be",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
